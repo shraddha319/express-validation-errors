@@ -2,7 +2,7 @@
 
 _This repo contains the code snippets used in my blog post on validation and error handling in Express API_
 
-Published on [hashnode](https://hashnode.com/draft/613e7ba022b7a41dfe5fee7f)
+Blog Published on [hashnode](https://shraddha319.hashnode.dev/validation-and-handling-errors-in-express-api-dry-practices)
 
 ### Folder Structure
 
